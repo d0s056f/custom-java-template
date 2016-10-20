@@ -90,7 +90,7 @@
                   "from": {
                      "kind": "ImageStreamTag",
                      "namespace": "openshift",
-                     "name": "wildfly:latest"
+                     "name": "webserver30-tomcat8-openshift:latest"
                   },
                   "env": [
                      {
