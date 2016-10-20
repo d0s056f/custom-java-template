@@ -5,7 +5,7 @@
       "name": "dhsanghv-java",
       "annotations": {
          "iconClass": "icon-jboss",
-         "description": "Application template for hello world java application built using STI"
+         "description": "Application template for simple hello world java application built using STI"
       }
    },
    "labels": {
