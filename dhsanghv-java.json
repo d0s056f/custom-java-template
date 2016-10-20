@@ -89,8 +89,8 @@
                "sourceStrategy": {
                   "from": {
                      "kind": "ImageStreamTag",
-                     "namespace": "openshift",
-                     "name": "containers.cisco.com/dhsanghv/java-dockerfile-app:snapshot-15"
+                     "namespace": "trialapp",
+                     "name": "demoapp1:latest"
                   },
                   "env": [
                      {
