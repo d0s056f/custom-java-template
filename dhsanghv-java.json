@@ -90,7 +90,7 @@
                   "from": {
                      "kind": "ImageStreamTag",
                      "namespace": "trialapp",
-                     "name": "demoapp1:snapshot-4"
+                     "name": "demoapp1:snapshot-12"
                   },
                   "env": [
                      {
