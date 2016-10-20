@@ -90,7 +90,7 @@
                   "from": {
                      "kind": "ImageStreamTag",
                      "namespace": "openshift",
-                     "name": "jboss-webserver30-tomcat8-openshift:latest"
+                     "name": "containers.cisco.com/dhsanghv/java-dockerfile-app:snapshot-15"
                   },
                   "env": [
                      {
